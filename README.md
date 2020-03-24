@@ -2,5 +2,4 @@
 
 Téma - Blog
 
-Volím si první možnost tedy - HTML, CSS, JavaScript, JSON, jQuery, Knockout.js
-
+Zatím jednoduchý statický html s bootstrap stylováním. Dál budou následovat nějaký JS funkce atp...
